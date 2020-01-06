@@ -1,0 +1,11 @@
+11 , AvenueStateStore
+22 , UnionSquareStore
+33 , NewstandStore
+44 , FremountStore
+55 , MontegoryStore
+66 , NorthgateStore
+77 , HillsdaleMallStore
+88 , SouthlandMallStore
+99 , BroadwayPlazaStore
+101 , SunValleyShoppingCenterStore
+111 , SerramonteCenterStore
