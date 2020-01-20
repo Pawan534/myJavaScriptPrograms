@@ -1,6 +1,0 @@
-You are sitting in-front of laptop 0
-You are standing at the end of a road 1
-You at top of the  hill 2
-you are inside the building 3
-You are in the valley 4
-You are in the forset 5
