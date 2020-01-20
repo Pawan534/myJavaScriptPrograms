@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1f7ab16-1f69-4e3b-bb5d-bd03e6ffe591" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/myFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/performance_test_plan.jmx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/search_words.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/war_and_peace.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/DemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/MainNutrition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/NutritionFactsBuilderPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/NutritionFactsJavaBeansPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/NyPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaExceptionsEg/BufferMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaExceptionsEg/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaExceptionsEg/FileDeSerializationExceptionEg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaExceptionsEg/FileDirEg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaExceptionsEg/FilePathEg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaExceptionsEg/FileSerializationExceptionEg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javaExceptionsEg/RandomAccessFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/LambdaPredicateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/LambdaSupplierConsumerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/SuppliersEg/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/SuppliersEg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/demo2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/demo2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/lambdaDemo/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/lambdaDemo/DemoRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/lambdaDemo/lambdaListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/DepartmentEmployeeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/StreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/regularExpression/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/regularExpression/PatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/arrayBlockingQueueEg/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/arrayBlockingQueueEg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/arrayBlockingQueueEg/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/arrayBlockingQueueEg/ThreadColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/deadLocksEg1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/deadlocks/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/deadlocks/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/deadlocks/Thread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/liveLockEg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/liveLockEg/SharedResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/liveLockEg/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/myTestThread/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/BarierWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/ComplexCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/DataRaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/DeadlockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/DeadlockDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/DemoInterrupted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/DemoProductReviewService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/LockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/MultipleThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/ProductReviewsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/StockInventoryConcurrencyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/ThroughPutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/ThroughputHttpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/producerConsumer/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/producerConsumer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/producerConsumer/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/producerConsumer/ThreadColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/producerConsumerLockEg/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/producerConsumerLockEg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/producerConsumerLockEg/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/producerConsumerLockEg/ThreadColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/NewBankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/Transfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/reneterateLockChallange/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/reneterateLockChallange/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/synchronizedChallange/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/synchronizedChallange/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadPoolsEg/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadPoolsEg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadPoolsEg/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadPoolsEg/ThreadColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadPriorityEg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadPriorityEg/ThreadColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadPriorityEg/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadsEg/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadsEg/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadsEg/MultiThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadsEg/MultipleThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadsEg/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadsEg/ThreadColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadsEg/ThreadSampleDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/com/collection/linkedList/DemoLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/com/collection/linkedList/DemoLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/com/generics/genericsEg3/GenericDemoCompareable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/com/generics/genericsEg3/GenericDemoCompareable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/com/javaExceptionsEg/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/com/javaExceptionsEg/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/com/javaExceptionsEg/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/com/javaExceptionsEg/Location.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collection/linkedList/DemoLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection/linkedList/DemoLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/generics/genericsEg3/GenericDemoCompareable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/generics/genericsEg3/GenericDemoCompareable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaExceptionsEg/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaExceptionsEg/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javaExceptionsEg/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaExceptionsEg/Location.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="418737628">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2495" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2495" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1477673981">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="csv" value="1" />
+          <entry key="dat" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="659" />
+          <entry key="jmx" value="1" />
+          <entry key="txt" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="659" />
+          <entry key="PLAIN_TEXT" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="72" />
+          <entry key="java" value="60980" />
+          <entry key="txt" value="70" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="60978" />
+          <entry key="PLAIN_TEXT" value="142" />
+          <entry key="RegExp" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/demo2/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="39" column="83" selection-start-line="39" selection-start-column="75" selection-end-line="39" selection-end-column="83" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>vase</find>
+      <find>get</find>
+      <find>getOrDefault</find>
+      <find>myMap</find>
+      <find>eg1</find>
+      <find>location</find>
+      <find>locations.tx</find>
+      <find>locationId</find>
+      <find>buff</find>
+      <find>locations</find>
+      <find>BroadwayPlazaStore</find>
+      <find>public</find>
+      <find>thread</find>
+      <find>syn</find>
+      <find>ThreadSampleDemo</find>
+      <find>Thread 1: Waiting for lock 2</find>
+      <find>Bank</find>
+      <find>interface</find>
+      <find>Runna</find>
+      <find>bowed</find>
+      <find>productIdToReviews</find>
+      <find>numberOfWorkers</find>
+      <find>divi</find>
+      <find>data</find>
+      <find>Demo2.</find>
+      <find>final</find>
+      <find>Arrays.as</find>
+      <find>FileReader</find>
+      <find>Employee</find>
+      <find>Predicate</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>eg1</replace>
+      <replace>myTreeMap</replace>
+      <replace>eg2</replace>
+      <replace>storeID</replace>
+      <replace>private</replace>
+      <replace>mapData</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\nisum\Desktop\Pavan\Full stack\My Github\myJavaScriptPrograms\JavaCode\src\com</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/threadEgs/threadPoolsEg/Producer.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/NewBankAccount.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/Transfer.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/reneterateLockChallange/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/reneterateLockChallange/Bank.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/ComplexCalculation.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/DemoInterrupted.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/StockInventory.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/StockInventoryConcurrencyDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/MultipleThread.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/DeadlockDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/DeadlockDemo2.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/Demo.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/LockDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/ProductReviewsService.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/DemoProductReviewService.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/DataRaceDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/BarierWorker.java" />
+        <option value="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/ThroughPutTest.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaExpression/lambdaDemo/Demo.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaExpression/lambdaDemo/DemoRunnable.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaExpression/lambdaDemo/lambdaListDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaExpression/lambdaDemo/Demo2.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaExpression/demo2/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaExpression/LambdaPredicateDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaExpression/LambdaSupplierDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaExpression/demo2/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaExpression/LambdaSupplierConsumerDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Department.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/StreamDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/DepartmentEmployeeDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/regularExpression/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/com/regularExpression/PatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/designPatterns/NutritionBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/designPatterns/NutritionFacts.java" />
+        <option value="$PROJECT_DIR$/src/com/designPatterns/NutritionFactsBuilderPattern.java" />
+        <option value="$PROJECT_DIR$/src/com/designPatterns/NutritionFactsJavaBeansPattern.java" />
+        <option value="$PROJECT_DIR$/src/com/designPatterns/MainNutrition.java" />
+        <option value="$PROJECT_DIR$/src/com/designPatterns/NyPizza.java" />
+        <option value="$PROJECT_DIR$/src/com/designPatterns/DemoMain.java" />
+        <option value="$PROJECT_DIR$/src/com/designPatterns/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/com/generics/genericsEg3/GenericDemoCompareable.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/LambdaPredicateDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/lambdaDemo/lambdaListDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/collection/linkedList/DemoLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/SuppliersEg/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/SuppliersEg/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="848" />
+    <option name="y" value="48" />
+    <option name="width" value="516" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lambdaAndStreams" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lambdaAndStreams" type="462c0819:PsiDirectoryNode" />
+              <item name="lambdaExpression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="threadEgs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579550755968" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/coreSpring/coreSpring" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lambdaAndStreams.streamEg" />
+      <recent name="com.threadEgs.threadChallaengeBank" />
+      <recent name="com.threadEgs.threadPriorityEg" />
+      <recent name="com.threadEgs.ProducerConsumer" />
+      <recent name="com.generics.egGenerics" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nisum\Desktop\Pavan\Full stack\My Github\myJavaScriptPrograms\JavaCode\src\com\threadEgs\outstandingExample" />
+      <recent name="C:\Users\nisum\Desktop\Pavan\Full stack\My Github\myJavaScriptPrograms\JavaCode\resources" />
+      <recent name="C:\Users\nisum\Desktop\Pavan\Full stack\My Github\myJavaScriptPrograms\JavaCode\src\com\threadEgs\threadChallaengeBank\reneterateLockChallange" />
+      <recent name="C:\Users\nisum\Desktop\Pavan\Full stack\My Github\myJavaScriptPrograms\JavaCode\src\com\threadEgs\ArrayBlockingQueueEg" />
+      <recent name="C:\Users\nisum\Desktop\Pavan\Full stack\My Github\myJavaScriptPrograms\JavaCode\src\com\threadEgs\ThreadPoolsEg" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="DemoLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection.linkedList.DemoLinkedList" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.collection.linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designPatterns.DemoMain" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designPatterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaPredicateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lambdaAndStreams.lambdaExpression.LambdaPredicateDemo" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lambdaAndStreams.lambdaExpression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lambdaAndStreams.lambdaExpression.SuppliersEg.Main" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lambdaAndStreams.lambdaExpression.SuppliersEg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lambdaAndStreams.lambdaExpression.Test" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lambdaAndStreams.lambdaExpression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DemoMain" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.LambdaPredicateDemo" />
+      <item itemvalue="Application.DemoLinkedList" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DemoLinkedList" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.LambdaPredicateDemo" />
+        <item itemvalue="Application.DemoMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1f7ab16-1f69-4e3b-bb5d-bd03e6ffe591" name="Default Changelist" comment="" />
+      <created>1575301553988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575301553988</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34871408" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.49848714" weight="0.3605442" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32993197" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.32993197" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" weight="0.39965987" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="9" weight="0.32993197" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49848714" visible="true" weight="0.33163264" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33812407" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.49848714" weight="0.3605442" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32993197" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924356" weight="0.32993197" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" weight="0.39965987" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="9" weight="0.32993197" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49848714" visible="true" weight="0.33163264" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/NewBankAccount.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/NewBankAccount.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/NewBankAccount.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/NewBankAccount.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/NewBankAccount.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/NewBankAccount.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/Main.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/Main.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/Main.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/Main.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/NewBankAccount.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/reneterateLockChallange/Main.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/reneterateLockChallange/Main.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/reneterateLockChallange/Bank.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/reneterateLockChallange/Bank.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/reneterateLockChallange/Bank.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/reneterateLockChallange/Bank.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/reneterateLockChallange/Bank.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/reneterateLockChallange/Bank.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/reneterateLockChallange/Bank.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/outstandingExample/DemoInterrupted.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/outstandingExample/DemoInterrupted.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/outstandingExample/DemoInterrupted.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/outstandingExample/ThroughPutTest.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/outstandingExample/ThroughPutTest.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/outstandingExample/ThroughPutTest.java</url>
+          <line>138</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/outstandingExample/ThroughPutTest.java</url>
+          <line>148</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/outstandingExample/ThroughPutTest.java</url>
+          <line>150</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/outstandingExample/ThroughPutTest.java</url>
+          <line>152</line>
+          <properties />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/outstandingExample/ThroughPutTest.java</url>
+          <line>116</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/threadEgs/outstandingExample/ThroughPutTest.java</url>
+          <line>119</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>sc.nextInt()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list.getOrDefault(item, null)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list.getOrDefault(item, 0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stockList.sellStock(item, qty)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(inStock!=null) &amp;&amp; sellQty&gt;0 &amp;&amp; (inStock.getQuantityStock()&gt;=sellQty)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list.getOrDefault(sellItem, null)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>obj instanceof Elephant</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this == obj</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>obj.hashCode()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.hashCode()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>num2.equals(&quot;null&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>num2.equals(null)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>keyValue[1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>keyValue[1].contains(&quot;,&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>httpExchange.getRequestURI().getQuery()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outputStream.</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>action.equals(&quot;word&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Thread.currentThread().isInterrupted()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lock.tryLock()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg3/GenericMethodMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg3/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg3/GenericsBoundedEg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg2/DemoG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg2/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg2/BaseBallPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg2/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg2/SoccerPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="140" column="29" selection-start-line="140" selection-start-column="29" selection-end-line="140" selection-end-column="29" />
+          <folding>
+            <element signature="e#15704#15705#0" expanded="true" />
+            <element signature="e#15770#15771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/threadEgs/threadPoolsEg/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg2/Team.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg3/GenericsSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bufferReaderExceptions/MainBufferWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-259">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bufferReaderExceptions/Store.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/arrayListEg/Seat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/arrayListEg/Theater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bufferReaderExceptions/MainBufferReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/linkedList/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/linkedList/Song.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/linkedList/Album.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/setsEg/AllSetsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/setsEg/HeavenlyBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-381">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/setsEg/Challenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/BiFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="70" column="5" lean-forward="true" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/UnaryOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/BinaryOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-236">
+          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/linkedList/DemoLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javaExceptionsEg/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="5" lean-forward="true" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="47" column="4" lean-forward="true" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/SuppliersEg/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/SuppliersEg/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/demo2/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/lambdaDemo/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="55" column="38" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/lambdaDemo/DemoRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/lambdaDemo/lambdaListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/StreamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-539">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/DepartmentEmployeeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/stackAndQueueEg/QueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/stackAndQueueEg/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/stackAndQueueEg/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/LambdaSupplierConsumerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/LambdaPredicateDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/demo2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="39" column="83" selection-start-line="39" selection-start-column="75" selection-end-line="39" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaCode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

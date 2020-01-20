@@ -1,0 +1,20 @@
+package com.oops.inheritance;
+
+public class Circle {
+    // write your code here
+    private double radius;
+
+    public Circle(double radius){
+        this.radius = radius < 0 ? 0 : radius;
+    }
+
+    public double getRadius(){
+        return this.radius;
+    }
+
+    public double getArea(){
+        double area = (this.radius)*(this.radius)*(Math.PI);
+
+        return area;
+    }
+}
