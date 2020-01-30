@@ -2,105 +2,90 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1f7ab16-1f69-4e3b-bb5d-bd03e6ffe591" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/myFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/performance_test_plan.jmx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/search_words.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/war_and_peace.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/DemoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/MainNutrition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/NutritionFactsBuilderPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/NutritionFactsJavaBeansPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/NyPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designPatterns/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaExceptionsEg/BufferMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaExceptionsEg/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaExceptionsEg/FileDeSerializationExceptionEg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaExceptionsEg/FileDirEg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaExceptionsEg/FilePathEg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaExceptionsEg/FileSerializationExceptionEg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javaExceptionsEg/RandomAccessFileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/LambdaPredicateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/LambdaSupplierConsumerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/SuppliersEg/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/SuppliersEg/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/demo2/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/demo2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/lambdaDemo/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/lambdaDemo/DemoRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/lambdaDemo/lambdaListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/DepartmentEmployeeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/StreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/regularExpression/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/regularExpression/PatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/arrayBlockingQueueEg/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/arrayBlockingQueueEg/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/arrayBlockingQueueEg/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/arrayBlockingQueueEg/ThreadColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/deadLocksEg1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/deadlocks/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/deadlocks/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/deadlocks/Thread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/liveLockEg/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/liveLockEg/SharedResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/liveLockEg/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/myTestThread/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/BarierWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/ComplexCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/DataRaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/DeadlockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/DeadlockDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/DemoInterrupted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/DemoProductReviewService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/LockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/MultipleThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/ProductReviewsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/StockInventoryConcurrencyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/ThroughPutTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/outstandingExample/ThroughputHttpServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/producerConsumer/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/producerConsumer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/producerConsumer/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/producerConsumer/ThreadColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/producerConsumerLockEg/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/producerConsumerLockEg/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/producerConsumerLockEg/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/producerConsumerLockEg/ThreadColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/NewBankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/Transfer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/reneterateLockChallange/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/reneterateLockChallange/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/synchronizedChallange/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/synchronizedChallange/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadPoolsEg/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadPoolsEg/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadPoolsEg/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadPoolsEg/ThreadColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadPriorityEg/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadPriorityEg/ThreadColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadPriorityEg/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadsEg/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadsEg/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadsEg/MultiThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadsEg/MultipleThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadsEg/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadsEg/ThreadColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threadEgs/threadsEg/ThreadSampleDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_10_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__org_jboss_jandex_2_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__org_springframework_spring_aop_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__org_springframework_spring_beans_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__org_springframework_spring_context_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__org_springframework_spring_core_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__org_springframework_spring_expression_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__org_springframework_spring_orm_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/.idea/libraries/Maven__org_springframework_spring_tx_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/src/main/java/com/nisum/employeeManagement/domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/src/main/java/com/nisum/employeeManagement/repository/Rowmapper/DepartmentRowMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/src/main/java/com/nisum/employeeManagement/repository/Rowmapper/ProductRowMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/src/main/java/com/nisum/employeeManagement/repository/dao/DepartmentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/src/main/java/com/nisum/employeeManagement/repository/dao/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/src/main/java/com/nisum/employeeManagement/repository/impl/DepartmentDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringEmployeeManagementProject/src/main/java/com/nisum/employeeManagement/repository/impl/ProductDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringProject/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringProject/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringProject/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringProject/.idea/libraries/Maven__org_springframework_spring_tx_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringProject/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringProject/src/main/java/com/nisum/inventory/employeeManagement/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringProject/src/main/java/com/nisum/inventory/employeeManagement/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringProject/src/main/java/com/nisum/inventory/order/OrderBO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringProject/src/main/java/com/nisum/inventory/order/OrderBOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringProject/src/main/java/com/nisum/inventory/order/OrderDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringProject/src/main/java/com/nisum/inventory/order/OredrDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringProject/src/main/java/com/nisum/inventory/repository/dao/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringProject/src/main/java/com/nisum/inventory/repository/dao/EmployeeRowMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringProject/src/main/java/com/nisum/inventory/repository/impl/EmployeeDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/StreamsFlatMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/StudentDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myJavaScriptPrograms/JavaCode/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testProject/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testProject/src/main/java/com/nisum/springMvc/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testProject/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testProject/src/main/webapp/WEB-INF/views/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testProject/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testProject/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testProject/testProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringProject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringProject/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringProject/productInventory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringProject/productInventory.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringProject/src/main/java/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringProject/src/main/java/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringProject/src/main/java/com/nisum/inventory/domain/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringProject/src/main/java/com/nisum/inventory/domain/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringProject/src/main/java/com/nisum/inventory/domain/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringProject/src/main/java/com/nisum/inventory/domain/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringProject/src/main/java/com/nisum/inventory/domain/ProductCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringProject/src/main/java/com/nisum/inventory/domain/ProductCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringProject/src/main/java/com/nisum/inventory/domain/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringProject/src/main/java/com/nisum/inventory/domain/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringProject/src/main/java/com/nisum/inventory/repository/DatabaseDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringProject/src/main/java/com/nisum/inventory/repository/dao/DatabaseDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringProject/src/main/resources/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../SpringProject/src/main/resources/database.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringProject/target/classes/com/nisum/inventory/domain/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringProject/target/classes/com/nisum/inventory/domain/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringProject/target/classes/com/nisum/inventory/domain/ProductCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringProject/target/classes/com/nisum/inventory/domain/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringProject/target/classes/com/nisum/inventory/repository/DatabaseDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SpringProject/target/classes/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/com/collection/linkedList/DemoLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/com/collection/linkedList/DemoLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/com/generics/genericsEg3/GenericDemoCompareable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/com/generics/genericsEg3/GenericDemoCompareable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/com/javaExceptionsEg/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/com/javaExceptionsEg/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/com/javaExceptionsEg/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/com/javaExceptionsEg/Location.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/collection/linkedList/DemoLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection/linkedList/DemoLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/generics/genericsEg3/GenericDemoCompareable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/generics/genericsEg3/GenericDemoCompareable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javaExceptionsEg/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaExceptionsEg/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javaExceptionsEg/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javaExceptionsEg/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/com/lambdaAndStreams/streamEg/StreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCode/com/lambdaAndStreams/streamEg/StreamDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/StreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/StreamDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -192,16 +177,144 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="439293567">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="542" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="542" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/demo2/Main.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/StreamsFlatMapExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="39" column="83" selection-start-line="39" selection-start-column="75" selection-end-line="39" selection-end-column="83" />
+            <state relative-caret-position="153">
+              <caret line="11" column="43" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/StudentDataBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/StreamDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/collection/stackAndQueueEg/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/collection/mapEg/Seat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="11" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/SuppliersEg/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/lambdaDemo/Demo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1314#1315#0" expanded="true" />
+                <element signature="e#1347#1348#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -219,8 +332,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>vase</find>
-      <find>get</find>
       <find>getOrDefault</find>
       <find>myMap</find>
       <find>eg1</find>
@@ -249,6 +360,8 @@
       <find>FileReader</find>
       <find>Employee</find>
       <find>Predicate</find>
+      <find>Comparable</find>
+      <find>compareTo</find>
     </findStrings>
     <replaceStrings>
       <replace>eg1</replace>
@@ -263,12 +376,11 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/threadEgs/threadPoolsEg/Producer.java" />
         <option value="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/NewBankAccount.java" />
         <option value="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/Transfer.java" />
         <option value="$PROJECT_DIR$/src/com/threadEgs/threadChallaengeBank/bankChallenge/Main.java" />
@@ -299,7 +411,6 @@
         <option value="$PROJECT_DIR$/src/com/lambdaExpression/demo2/Main.java" />
         <option value="$PROJECT_DIR$/src/com/lambdaExpression/LambdaSupplierConsumerDemo.java" />
         <option value="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Department.java" />
-        <option value="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/StreamDemo.java" />
         <option value="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/DepartmentEmployeeDemo.java" />
         <option value="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Test.java" />
         <option value="$PROJECT_DIR$/src/com/regularExpression/Demo1.java" />
@@ -319,6 +430,8 @@
         <option value="$PROJECT_DIR$/src/com/collection/linkedList/DemoLinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/SuppliersEg/Employee.java" />
         <option value="$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/SuppliersEg/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/StreamsFlatMapExample.java" />
+        <option value="$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/StreamDemo.java" />
       </list>
     </option>
   </component>
@@ -381,7 +494,17 @@
               <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="threadEgs" type="462c0819:PsiDirectoryNode" />
+              <item name="lambdaAndStreams" type="462c0819:PsiDirectoryNode" />
+              <item name="lambdaExpression" type="462c0819:PsiDirectoryNode" />
+              <item name="lambdaDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lambdaAndStreams" type="462c0819:PsiDirectoryNode" />
+              <item name="streamEg" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -396,14 +519,14 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579550755968" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580142322422" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/coreSpring/coreSpring" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/RealtimeMessaging-Java-master/RealtimeMessaging-Java-master" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -414,11 +537,11 @@
       <recent name="com.generics.egGenerics" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nisum\Desktop\Pavan\Full stack\My Github\coreJava\JavaCode\src\com\lambdaAndStreams\streamEg" />
       <recent name="C:\Users\nisum\Desktop\Pavan\Full stack\My Github\myJavaScriptPrograms\JavaCode\src\com\threadEgs\outstandingExample" />
       <recent name="C:\Users\nisum\Desktop\Pavan\Full stack\My Github\myJavaScriptPrograms\JavaCode\resources" />
       <recent name="C:\Users\nisum\Desktop\Pavan\Full stack\My Github\myJavaScriptPrograms\JavaCode\src\com\threadEgs\threadChallaengeBank\reneterateLockChallange" />
       <recent name="C:\Users\nisum\Desktop\Pavan\Full stack\My Github\myJavaScriptPrograms\JavaCode\src\com\threadEgs\ArrayBlockingQueueEg" />
-      <recent name="C:\Users\nisum\Desktop\Pavan\Full stack\My Github\myJavaScriptPrograms\JavaCode\src\com\threadEgs\ThreadPoolsEg" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -433,7 +556,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.StreamDemo">
     <configuration name="DemoLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.collection.linkedList.DemoLinkedList" />
       <module name="JavaCode" />
@@ -447,38 +570,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.designPatterns.DemoMain" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.designPatterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LambdaPredicateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lambdaAndStreams.lambdaExpression.LambdaPredicateDemo" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lambdaAndStreams.lambdaExpression.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lambdaAndStreams.lambdaExpression.SuppliersEg.Main" />
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.lambdaAndStreams.lambdaExpression.SuppliersEg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lambdaAndStreams.streamEg.StreamDemo" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lambdaAndStreams.streamEg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamsFlatMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lambdaAndStreams.streamEg.StreamsFlatMapExample" />
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lambdaAndStreams.streamEg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -500,19 +623,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DemoMain" />
       <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.LambdaPredicateDemo" />
       <item itemvalue="Application.DemoLinkedList" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.StreamsFlatMapExample" />
+      <item itemvalue="Application.StreamDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamDemo" />
+        <item itemvalue="Application.StreamsFlatMapExample" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DemoLinkedList" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.LambdaPredicateDemo" />
-        <item itemvalue="Application.DemoMain" />
       </list>
     </recent_temporary>
   </component>
@@ -542,7 +665,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34871408" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35930407" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -560,7 +683,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" weight="0.39965987" />
       <window_info anchor="bottom" id="Dependency Viewer" order="9" weight="0.32993197" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32993197" />
-      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49848714" visible="true" weight="0.33163264" />
+      <window_info active="true" anchor="bottom" id="Run" order="11" sideWeight="0.49848714" visible="true" weight="0.33163264" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -602,6 +725,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -900,69 +1028,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg3/GenericMethodMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg3/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg3/GenericsBoundedEg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg2/DemoG.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg2/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg2/BaseBallPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg2/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/generics/genericsEg2/SoccerPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="53">
@@ -974,10 +1039,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="140" column="29" selection-start-line="140" selection-start-column="29" selection-end-line="140" selection-end-column="29" />
-          <folding>
-            <element signature="e#15704#15705#0" expanded="true" />
-            <element signature="e#15770#15771#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1058,31 +1119,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/collection/linkedList/Song.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/collection/linkedList/Album.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/collection/setsEg/AllSetsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/collection/setsEg/HeavenlyBody.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-381">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1142,30 +1182,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/SuppliersEg/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/demo2/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/lambdaDemo/Demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="903">
-          <caret line="55" column="38" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1183,52 +1203,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/StreamDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-539">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-49">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/DepartmentEmployeeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Department.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/collection/stackAndQueueEg/QueueDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/collection/stackAndQueueEg/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1239,9 +1217,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/demo2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/linkedList/Song.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/linkedList/Album.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/mapEg/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/mapEg/Theater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/setsEg/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/setsEg/HeavenlyBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/mapEg/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/mapEg/Location.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/DepartmentEmployeeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-174">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/LambdaSupplierConsumerDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
+        <state relative-caret-position="102">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1251,27 +1319,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/LambdaPredicateDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/StreamsFlatMapExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="153">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/demo2/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="39" column="83" selection-start-line="39" selection-start-column="75" selection-end-line="39" selection-end-column="83" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/StudentDataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/StreamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/stackAndQueueEg/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/SuppliersEg/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/lambdaExpression/lambdaDemo/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lambdaAndStreams/streamEg/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1314#1315#0" expanded="true" />
+            <element signature="e#1347#1348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection/mapEg/Seat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="11" column="5" selection-start-line="8" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
           </folding>
         </state>
       </provider>

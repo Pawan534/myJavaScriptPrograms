@@ -1,83 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
-	   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	   xmlns:context="http://www.springframework.org/schema/context"
-	   xsi:schemaLocation="http://www.springframework.org/schema/beans
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
     http://www.springframework.org/schema/beans/spring-beans.xsd
     http://www.springframework.org/schema/context
-    http://www.springframework.org/schema/context/spring-context.xsd">
-
-	<context:property-placeholder location="file:src\main\resources\database.properties"/>
-
-	<bean name="database" class="com.nisum.inventory.repository.DatabaseDAO">
-		<constructor-arg>
-			<value>${dbServer}</value>
-		</constructor-arg>
-	</bean>
+    http://www.springframework.org/schema/context/spring-context.xsd
+	http://www.springframework.org/schema/util
+    http://www.springframework.org/schema/util/spring-util.xsd">
 
 
-	<bean name="product" class="com.nisum.inventory.domain.Product">
+    <context:annotation-config/>
+    <context:component-scan base-package="com.nisum.inventory"/>
+    <context:property-placeholder location="file:src\main\resources\database.properties"/>
 
-		<property name="productId">
-			<list>
-				<value>151029249</value>
-				<value>113396162</value>
-				<value>2099689951</value>
-				<value>219508495</value>
-				<value>236715061</value>
-				<value>177661707</value>
-				<value>219485612</value>
-				<value>66718804</value>
-				<value>216192392</value>
-				<value>239068334</value>
-			</list>
+    <bean class="org.springframework.jdbc.datasource.DriverManagerDataSource" name="dataSource">
+        <property name="driverClassName" value="com.mysql.jdbc.Driver"/>
+        <property name="url" value="jdbc:mysql://localhost/mydb"/>
+        <property name="username" value="root"/>
+        <property name="password" value="Nisum@1989"/>
+    </bean>
 
-		</property>
-		<property name="productPrice">
-			<list>
-				<value>1510.29</value>
-				<value>38900.50</value>
-				<value>6789.09</value>
-				<value>700</value>
-				<value>189</value>
-				<value>670.09</value>
-				<value>549.10</value>
-				<value>66718804</value>
-				<value>50900</value>
-				<value>150900</value>
-			</list>
-		</property>
 
-		<property name="productName">
-			<list>
-				<value>Corel Game Capture HD Pro</value>
-				<value>Canon EF 50mm f/1.8 II Lens</value>
-				<value>Lenovo 4337 ThinkPad Mini</value>
-				<value>Samsung 5200 Series</value>
-				<value>Vizio D-Series</value>
-				<value>Mangroomer Ultimate</value>
-				<value>Men's Electric Shaver</value>
-				<value>NuTone 9417DN Heater</value>
-				<value>Apple iPhone 6s Plus - 16GB</value>
-				<value>Apple iPhone 8 Plus - 256GB</value>
-			</list>
-		</property>
+    <bean class="org.springframework.jdbc.core.JdbcTemplate" name="jdbcTemplate">
+        <property name="dataSource" ref="dataSource"/>
+    </bean>
 
-	</bean>
+    <bean name="database" class="com.nisum.inventory.repository.dao.DatabaseDAO" scope="singleton">
+        <constructor-arg>
+            <value>${dbServer}</value>
+        </constructor-arg>
+    </bean>
 
-	<bean name="productCategory" class="com.nisum.inventory.domain.ProductCategory">
-		<property name="product">
-			<ref bean="product"/>
-		</property>
-		<property name="productCategoryName" value="Laptops"/>
-		<property name="productCategoryId" value="1234"/>
-		<property name="category">
-			<bean class="com.nisum.inventory.domain.Category">
-				<property name="categoryId" value="E1234"/>
-				<property name="categoryName" value="Electronics"/>
-			</bean>
-		</property>
-	</bean>
+    <!-- - We are using @Component-for creating instance and @Value - to assign the value @Autowired - to provide the reference
+       <bean name="product" class="com.nisum.inventory.domain.Product">
+           <property name="productId">
+               <ref bean="productIds"/>
+           </property>
+           <property name="productPrice">
+               <ref bean="productPrices"/>
+           </property>
 
-	<context:annotation-config/>
+           <property name="productName">
+               <ref bean="productNames"/>
+           </property>
+       </bean>
+
+
+       <bean class="com.nisum.inventory.domain.Category" name="category">
+           <constructor-arg name="categoryId" value="E1234"/>
+           <constructor-arg name="categoryName" value="Electronics"/>
+       </bean>
+
+       <bean name="productCategory" class="com.nisum.inventory.domain.ProductCategory">
+           <property name="productCategoryName" value="Laptops"/>
+           <property name="productCategoryId" value="1234"/>
+       </bean>
+       -->
+
+    <bean name="productCategory" class="com.nisum.inventory.domain.ProductCategory">
+        <property name="productCategoryName" value="Laptops"/>
+        <property name="productCategoryId" value="1234"/>
+    </bean>
+
+
+
+        <util:list list-class="java.util.LinkedList" id="productIds">
+
+            <value>151029249</value>
+            <value>113396162</value>
+            <value>2099689951</value>
+            <value>219508495</value>
+            <value>236715061</value>
+            <value>177661707</value>
+            <value>219485612</value>
+            <value>66718804</value>
+            <value>216192392</value>
+            <value>239068334</value>
+        </util:list>
+
+        <util:list list-class="java.util.LinkedList" id="productNames">
+            <value>Corel Game Capture HD Pro</value>
+            <value>Canon EF 50mm f/1.8 II Lens</value>
+            <value>Lenovo 4337 ThinkPad Mini</value>
+            <value>Samsung 5200 Series</value>
+            <value>Vizio D-Series</value>
+            <value>Mangroomer Ultimate</value>
+            <value>Men's Electric Shaver</value>
+            <value>NuTone 9417DN Heater</value>
+            <value>Apple iPhone 6s Plus - 16GB</value>
+            <value>Apple iPhone 8 Plus - 256GB</value>
+        </util:list>
+
+        <util:list list-class="java.util.LinkedList" id="productPrices">
+            <value>1510.29</value>
+            <value>38900.50</value>
+            <value>6789.09</value>
+            <value>700</value>
+            <value>189</value>
+            <value>670.09</value>
+            <value>549.10</value>
+            <value>66718804</value>
+            <value>50900</value>
+            <value>150900</value>
+        </util:list>
+
 </beans>
